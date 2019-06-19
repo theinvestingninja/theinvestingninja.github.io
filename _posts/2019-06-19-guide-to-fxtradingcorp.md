@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-right-sidebar
 title:  "Guide to FX Trading Corp"
 permalink: /guide-to-fxtrading-corp/
 author: ninja
