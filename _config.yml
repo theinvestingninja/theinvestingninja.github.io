@@ -9,8 +9,8 @@ paginate: 12
 baseurl: ''
 email: 'jay.kusal@gmail.com'
 google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
-sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
+disqus: 'investingninja'
+sharethis: '<script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#property=5d0a0b091449a300127e1b26&product=sticky-share-buttons' async='async'></script>'
 
 # Authors
 authors:
