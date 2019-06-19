@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Guide to FX Trading Corp"
-permalink: /guide-to-fxtradingcorp/
+permalink: /guide-to-fxtrading-corp/
 author: ninja
 categories: [ Investment, Cryptocurrency ]
 image: assets/images/featured-guide-to-fxtradingcorp.png
@@ -27,7 +27,7 @@ Also in the residual income, you earn 2% of your entire network which is linked 
 ### Let’s Get Started
 **1. Register with FX Trading Corp**
 
-> [https://apps.investingninja.club/signup-fxtradingcorp](https://apps.investingninja.club/signup-fxtradingcorp)
+> [https://platform.investingninja.club/signup-fxtrading-corp](https://platform.investingninja.club/signup-fxtrading-corp)
 
 **2. Select the plan you want to get started with and click “*Create*”**, to see the invoice with amount of Bitcon which is equal to the plan you selected alone with the wallet address.
 
