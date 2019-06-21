@@ -4,7 +4,8 @@ title:  "Guide to FX Trading Corp"
 permalink: /guide-to-fxtrading-corp/
 author: ninja
 categories: [ Investment, Cryptocurrency ]
-image: assets/images/post-guide-to-fxtradingcorp/featured.png
+image: assets/images/posts/guide-to-fxtrading-corp/featured.png
+featured: true
 ---
 ### What is FX Trading Corporation?
 FX Trading Corporation is an MLM Crypto Trading company located in South Korea, which makes money from mining companies in various places around the world with Bitcoin, Etherium, Bitcoin in cash, Litecoin, etc. They have developed proprietary software called “BOT-FX” which perform this automated trading operations which can give up to 2.5% or daily return to your investment.
@@ -14,7 +15,7 @@ With FX Trading Corp, There are few ways that you can earn money. which is ROI C
 ##### ROI Commissions
 To earn ROI Commissions, all you have to do is to make an investment in what of the packages they offer in the site and with those packages, you will earn up to 2.5% within 200 days (from Monday to Friday). Below is the breakdown of each level of investment that the company has to offer;
 
-<img src="/assets/images/post-guide-to-fxtradingcorp/investing-plans.png" alt="Investment Plans" title="Investment Plans" width="400"  />
+<img src="/assets/images/posts/guide-to-fxtrading-corp/investing-plans.png" alt="Investment Plans" title="Investment Plans" width="400"  />
 
 Based on the plan you have chosen, you will get daily profit up to 2.5% (As per our own experience, daily profit is within 1% – 2%) and assume you have invested on a BOT1000 plan and based on the platform performance (bots) of the day, daily profit percentage is 1.3%, you will get $13 as your profit to your account by the end of the day (Bots operations for the day is ending at 12:00 PM and your account is updating with the profit at 03:00 AM South’s Korea time daily from Monday to Friday).
 
@@ -31,7 +32,7 @@ Also in the residual income, you earn 2% of your entire network which is linked 
 
 **2. Select the plan you want to get started with and click “*Create*”**, to see the invoice with amount of Bitcon which is equal to the plan you selected alone with the wallet address.
 
-<img src="/assets/images/post-guide-to-fxtradingcorp/invoice.png" alt="Investment Invoice" title="Investment Invoice" width="250"  />
+<img src="/assets/images/posts/guide-to-fxtrading-corp/invoice.png" alt="Investment Invoice" title="Investment Invoice" width="250"  />
  
 **3. Transfer the exact Bitcoin amount to the wallet address**, and that's it!
 
@@ -39,7 +40,7 @@ BTC amount is equal to the plan (USD amount) you have selected and If you alread
 
 Once everything done, You can sit back and check your account balance for the daily profit gains and below is the recent profits for our BOT1000 investment.
 
-<img src="/assets/images/post-guide-to-fxtradingcorp/daily-gains.png" alt="Daily Gains" title="Daily Gains" width="600"  />
+<img src="/assets/images/posts/guide-to-fxtrading-corp/daily-gains.png" alt="Daily Gains" title="Daily Gains" width="600"  />
 
 So we hope you had a good understanding of this investment opportunity and as we personally invested on FX Trading Corp, Investing Ninja team personally recommending you to try this out and also as a **High Return Investment, there are also a High Risk is associated** and what we do recommend is to start with BOT100, BOT300 or BOT500 plans, and if the investment oppourtunity fits your needs and with your own experience, you can then upgrade to a higher plan which suits all your needs.
 

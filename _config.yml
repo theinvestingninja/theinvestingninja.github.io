@@ -10,7 +10,7 @@ baseurl: ''
 email: 'ninja@hasitha.org'
 google_analytics: 'UA-27816058-3'
 disqus: 'investingninja'
-sharethis: '<script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#property=5d0a0b091449a300127e1b26&product=sticky-share-buttons' async='async'></script>'
+sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5d0a0b091449a300127e1b26&product=sticky-share-buttons"></script>'
 
 # Authors
 authors:
